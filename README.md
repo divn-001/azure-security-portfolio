@@ -1,45 +1,64 @@
-# azure-security-portfolio
-Azure Security Engineering &amp; Architecture Portfolio (SecOps)
+# Azure Security Portfolio
 
-## Overview
-This repository contains a hands-on Azure security engineering portfolio focused on **identity, detection, cloud posture, and secure architecture**.
+[![SC-200](https://learn.microsoft.com/media/learn/certification/badges/security-operations-analyst-associate.svg)](https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D )
+[![AZ-500](https://learn.microsoft.com/media/learn/certification/badges/azure-security-engineer-associate.svg)](https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D )
 
-It is designed to demonstrate practical, real-world skills required for **mid-level Azure / Cloud Security Engineer roles**, with a strong emphasis on:
-- Reducing security incidents through preventive controls
-- Engineering secure-by-default cloud environments
-- Translating SOC findings into long-term security improvements
 
-## Background
-I am currently a **Security Analyst (SOC-focused)** with hands-on experience in detection, investigation, and incident response.  
-This portfolio represents my deliberate transition into **Security Engineering and Cloud Security Architecture**.
-
-## Certifications
-- AZ-500 – Azure Security Engineer Associate  
-- SC-200 – Microsoft Security Operations Analyst  
-- SC-100 – Cybersecurity Architect (in progress)
-
-## Portfolio Structure
-Each project focuses on a real security engineering responsibility commonly seen in Azure security job descriptions.
-
-| Project | Focus Area |
-|------|-----------|
-| Identity & Zero Trust | Conditional Access, MFA, PIM |
-| Detection Engineering | Microsoft Sentinel, KQL, automation |
-| Secure Admin Access | Bastion, JIT, attack surface reduction |
-| Cloud Workload Protection | Defender for Cloud, posture management |
-| Landing Zone Governance | Azure Policy, RBAC, management groups |
-| Incident-Driven Architecture | Engineering from real SOC incidents |
-| DevSecOps Automation | Policy-as-code, CI/CD security |
-
-## How to Use This Repository
-- Each project folder contains its own `README.md`
-- Infrastructure is deployed in a personal Azure lab
-- All logs, identities, and incidents are **synthetic**
-- Resources are deployed and torn down to control costs
-
-## Target Roles
-- Azure Security Engineer
-- Cloud Security Engineer
-- Security Engineer (Cloud / Platform)
+This portfolio demonstrates practical, real-world Azure security skills across the end-to-end security lifecycle.  
+It is designed to show competence in securing cloud identities, enforcing governance, building detections, responding to threats, and automating controls — exactly the responsibilities of an Azure Security Engineer.
 
 ---
+
+## 🛠 What This Repo Shows
+
+This repository covers key cloud security domains:
+
+| Domain | What You’ll See |
+|--------|-----------------|
+| Identity Security | Azure AD hardening, MFA, Conditional Access |
+| Privileged Access | PIM, secure admin design, just-in-time access |
+| Cloud Posture | Defender for Cloud strategy, secure score, baselines |
+| Governance | Azure Policy, landing zone design, RBAC |
+| Detection Engineering | Microsoft Sentinel analytics, KQL, data connectors |
+| Incident Response | SOAR Playbooks, investigation workflows |
+| DevSecOps | Policy as code, CI/CD security automation |
+| Capstone | End-to-end scenario from detection to response |
+
+Each project folder has:
+✔ a clear security problem description  
+✔ implementation steps  
+✔ outputs (queries, screenshots, diagrams)  
+✔ lessons learned
+
+---
+
+## 📂 Folder Guide
+
+1. `01-identity-security` – Secure Azure AD and identity entry points  
+2. `02-privileged-access-security` – Protect highly privileged accounts  
+3. `03-cloud-posture-management` – Establish strong cloud security posture  
+4. `04-governance-and-landing-zones` – Prevent misconfiguration at scale  
+5. `05-detection-engineering` – Build meaningful threat detections  
+6. `06-incident-response-and-soar` – Investigate and automate response  
+7. `07-devsecops-and-automation` – Automate security with code and pipelines  
+8. `08-capstone-end-to-end-security` – Integrate detection → response → controls
+
+---
+
+## 🚀 How to Use This Repo
+
+- Browse by domain to understand my approach
+- Expand folders for documented projects
+- Review KQL queries and playbooks
+- See demonstrable outputs
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Azure AD hardening and Zero Trust  
+- Microsoft Sentinel detection and hunting  
+- SIEM + SOAR design patterns  
+- Azure Policy and security governance  
+- Defender for Cloud posture strategy  
+- Automation with ARM/Bicep/Terraform
