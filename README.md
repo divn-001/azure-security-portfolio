@@ -4,10 +4,13 @@
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D">
-    <img src="assets/badges/sc-200.png" width="140" style="margin-right: 50px;" />
+    <img src="assets/badges/sc-200.png" width="150" />
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D">
-    <img src="assets/badges/az-500.png" width="140" style="margin-left: 50px;" />
+    <img src="assets/badges/az-500.png" width="150" />
   </a>
 </p>
 
