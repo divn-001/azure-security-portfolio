@@ -4,7 +4,6 @@
 
 
 
-
 This portfolio demonstrates practical, real-world Azure security skills across the end-to-end security lifecycle.  
 It is designed to show competence in securing cloud identities, enforcing governance, building detections, responding to threats, and automating controls — exactly the responsibilities of an Azure Security Engineer.
 
