@@ -1,57 +1,57 @@
-# Identity & Zero Trust Engineering
+# Identity Security
 
-## Objective
-Design and implement a **risk-based Zero Trust identity architecture** in Azure that reduces credential-based attacks while maintaining usability.
+## Purpose
+This section demonstrates how Azure identities are secured using Zero Trust principles.
 
-This project focuses on **preventing identity incidents** rather than responding to them.
-
-## Scope
-**In scope:**
-- Azure Entra ID (Azure AD)
-- Conditional Access (risk-based)
-- Multi-Factor Authentication
-- Privileged Identity Management (PIM)
-- Break-glass access strategy
-
-**Out of scope:**
-- On-prem AD integration
-- Third-party IdP solutions
-
-## Architecture Summary
-The identity model follows Zero Trust principles:
-- Verify explicitly
-- Enforce least privilege
-- Assume breach
-
-Access decisions are based on:
-- User risk
-- Sign-in risk
-- Device state
-- Role sensitivity
-
-## Lab Implementation Plan
-- Configure baseline Conditional Access policies
-- Implement risk-based MFA enforcement
-- Configure PIM for administrative roles
-- Create and secure break-glass accounts
-- Log identity events to Microsoft Sentinel
-
-## Threats Addressed
-- Credential phishing
-- MFA fatigue attacks
-- Token replay
-- Excessive standing privileges
-
-## Expected Outcomes
-- Reduced identity-related SOC alerts
-- Clear separation between user and admin access
-- Improved auditability and control over privileged actions
-
-## Validation
-Validation will be performed by:
-- Simulated risky sign-ins
-- Privilege elevation tests
-- Conditional Access policy evaluation
-- Sentinel alert verification
+The focus is on reducing identity attack surface, enforcing strong authentication, and
+preventing unauthorized access before detection or response is required.
 
 ---
+
+## Scope (Strictly Enforced)
+
+### In Scope
+- Microsoft Entra ID (Azure AD)
+- Conditional Access policies
+- Multi-Factor Authentication (MFA)
+- Identity risk management
+- Authentication hardening
+
+### Explicitly Out of Scope
+- Detection logic (see `05-detection-engineering`)
+- Privileged role workflows (see `02-privileged-access-security`)
+- Incident response and SOAR
+
+---
+
+## Capabilities Demonstrated
+
+Projects in this section demonstrate the ability to:
+
+### 1. Apply Zero Trust Identity Principles
+- Enforce least privilege
+- Verify explicitly
+- Assume breach in identity design
+
+### 2. Reduce Identity Attack Surface
+- Require MFA for sensitive access
+- Restrict legacy authentication
+- Limit exposure of high-risk sign-in paths
+
+### 3. Design Conditional Access Policies
+- Align access decisions to user, device, and risk
+- Balance security with usability
+- Avoid policy sprawl and misconfiguration
+
+---
+
+## Execution Philosophy
+Identity controls are designed to **prevent compromise**, not respond to it.
+Configuration decisions prioritize clarity, simplicity, and auditability.
+
+---
+
+## Success Criteria
+- Identity access paths are intentionally controlled
+- MFA is enforced where it materially reduces risk
+- Policies can be clearly explained and justified
