@@ -2,19 +2,19 @@
 
 <div align="center">
 
-  <img src="assets/badges/associate.png" width="120" />
+  <div style="margin-bottom: 60px;">
+    <img src="assets/badges/associate.png" width="190" />
+  </div>
 
-  <br /><br />
-
-  <span style="display:inline-block; margin-right: 120px;">
+  <span style="display:inline-block; margin-right: 140px;">
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D">
-      <img src="assets/badges/sc-200.png" width="170" />
+      <img src="assets/badges/sc-200.png" width="160" />
     </a>
   </span>
 
-  <span style="display:inline-block; margin-left: 120px;">
+  <span style="display:inline-block; margin-left: 140px;">
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D">
-      <img src="assets/badges/az-500.png" width="170" />
+      <img src="assets/badges/az-500.png" width="160" />
     </a>
   </span>
 
