@@ -1,7 +1,7 @@
 # Azure Security Portfolio
 
-[![SC-200](https://learn.microsoft.com/media/learn/certification/badges/security-operations-analyst-associate.svg)](https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D )
-[![AZ-500](https://learn.microsoft.com/media/learn/certification/badges/azure-security-engineer-associate.svg)](https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D )
+[![SC-200](assets/badges/sc200.svg)](https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D )
+[![AZ-500](assets/badges/az500.svg)]((https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D )
 
 
 This portfolio demonstrates practical, real-world Azure security skills across the end-to-end security lifecycle.  
