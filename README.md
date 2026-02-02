@@ -1,15 +1,13 @@
 # Azure Security Portfolio
 
 <img src="assets/badges/associate.svg" width="120 />
-[![SC-200](assets/badges/sc-200.png)](https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D )
-[![AZ-500](assets/badges/az-500.png)]((https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D )
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D">
-    <img src="assets/badges/sc-200.png" width="120" />
+    <img src="assets/badges/sc-200.png" width="140" style="margin-right: 30px;" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D">
-    <img src="assets/badges/az-500.png" width="120" />
+    <img src="assets/badges/az-500.png" width="140" style="margin-left: 30px;" />
   </a>
 </p>
 
