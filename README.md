@@ -1,5 +1,6 @@
 # Azure Security Portfolio
 
+(assets/badges/associate.svg)
 [![SC-200](assets/badges/sc-200.png)](https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D )
 [![AZ-500](assets/badges/az-500.png)]((https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D )
 
