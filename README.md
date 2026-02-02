@@ -2,20 +2,21 @@
 
 <img src="assets/badges/associate.svg" width="120 />
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
-    <td align="center" style="padding-right: 60px;">
+    <td align="center" style="padding-right: 70px; border:none;">
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D">
         <img src="assets/badges/sc-200.png" width="150" />
       </a>
     </td>
-    <td align="center" style="padding-left: 60px;">
+    <td align="center" style="padding-left: 70px; border:none;">
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D">
         <img src="assets/badges/az-500.png" width="150" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 This portfolio demonstrates practical, real-world Azure security skills across the end-to-end security lifecycle.  
