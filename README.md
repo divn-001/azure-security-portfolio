@@ -4,6 +4,14 @@
 [![SC-200](assets/badges/sc-200.png)](https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D )
 [![AZ-500](assets/badges/az-500.png)]((https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D )
 
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D">
+    <img src="assets/badges/sc-200.png" width="120" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D">
+    <img src="assets/badges/az-500.png" width="120" />
+  </a>
+</p>
 
 This portfolio demonstrates practical, real-world Azure security skills across the end-to-end security lifecycle.  
 It is designed to show competence in securing cloud identities, enforcing governance, building detections, responding to threats, and automating controls — exactly the responsibilities of an Azure Security Engineer.
