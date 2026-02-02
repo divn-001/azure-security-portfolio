@@ -1,6 +1,6 @@
 # Azure Security Portfolio
 
-<img src="assets/badges/associate.png" width="120 />
+<img src="assets/badges/associate.png" width="120" />
 
 <div align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D"><img src="assets/badges/sc-200.png" width="170" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D"><img src="assets/badges/az-500.png" width="170" /></a></div>
 
