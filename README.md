@@ -2,17 +2,21 @@
 
 <img src="assets/badges/associate.svg" width="120 />
 
-<p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D">
-    <img src="assets/badges/sc-200.png" width="150" />
-  </a>
+<table align="center">
+  <tr>
+    <td align="center" style="padding-right: 60px;">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9D041D2B753AC02D?sharingId=F9CDD32D7A0437D">
+        <img src="assets/badges/sc-200.png" width="150" />
+      </a>
+    </td>
+    <td align="center" style="padding-left: 60px;">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D">
+        <img src="assets/badges/az-500.png" width="150" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DivineOsaro-3760/9FBAED996D072A7?sharingId=F9CDD32D7A0437D">
-    <img src="assets/badges/az-500.png" width="150" />
-  </a>
-</p>
 
 This portfolio demonstrates practical, real-world Azure security skills across the end-to-end security lifecycle.  
 It is designed to show competence in securing cloud identities, enforcing governance, building detections, responding to threats, and automating controls — exactly the responsibilities of an Azure Security Engineer.
