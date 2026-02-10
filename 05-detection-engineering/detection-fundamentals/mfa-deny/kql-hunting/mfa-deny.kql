@@ -1,2 +1,7 @@
-test
-
+SigninLogs
+| where ResultType == 500121
+| where tostring(Status.additionalDetails) has "MFA denied"
+| where AuthenticationRequirement =~ "multifactorAuthentication"
+| summarize denials = count(), IPs = make_set(IPAddress,10) by UserPrincipalName, bin(TimeGenerated, 15m)
+| where denials >= 5
+| project UserPrincipalName, TimeGenerated, IPs, denials
